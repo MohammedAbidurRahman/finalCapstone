@@ -55,7 +55,7 @@ After installing the project, follow these instructions to use finalCapstone:
 
 6. Follow the on-screen instructions to perform the selected action.
 
-7. Screenshots of the project in action can be found in the [screenshots](/screenshots/Screenshot(36).png) directory.
+7. Screenshots of the project in action can be found in the [screenshots](/screenshot.png) directory.
 
 ## Credits
 This project was created by [Mohammed Abidur Rahman](https://github.com/MohammedAbidurRahman) as a capstone project. 
